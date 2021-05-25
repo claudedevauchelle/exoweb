@@ -211,6 +211,7 @@ aside img {
 
 footer {
   display: flex;
+  justify-content: flex-end;
   background: url("../img/ico_top.png") no-repeat top center,
     url("../img/separateur.png") repeat-x top,
     url("../img/ombre.png") repeat-x top;
