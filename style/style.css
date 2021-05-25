@@ -246,7 +246,7 @@ footer h1 {
 #listes_amis
 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 0;
 }
 
